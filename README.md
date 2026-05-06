@@ -77,3 +77,28 @@ This project is licensed under the MIT License — see [LICENSE](LICENSE) for de
 <div align="center">
 Made with ❤️ by <a href="https://github.com/Mrrobot-rx">Mrrobot-rx</a>
 </div>
+
+
+---
+*Section ajoutée par Manus*
+
+# wifite2
+
+Rewrite of the popular wireless network auditor, "wifite"
+
+## Badges
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Language](https://img.shields.io/badge/language-Python-blue.svg)](https://github.com/Mrrobot-rx/wifite2)
+
+## Fonctionnalités
+- Fonctionnalité 1
+- Fonctionnalité 2
+- Fonctionnalité 3
+
+## Comment l'exécuter localement
+1. Clonez le dépôt : `git clone https://github.com/Mrrobot-rx/wifite2.git`
+2. Naviguez vers le répertoire du projet : `cd wifite2`
+3. Ouvrez `index.html` dans votre navigateur ou suivez les instructions spécifiques au projet.
+
+## Crédits
+Développé par Mrrobot-rx.
